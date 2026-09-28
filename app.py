@@ -24,7 +24,7 @@ NAVY = "#0A2342"
 AMBER = "#E8A838"
 GREEN = "#2E7D32"
 RED = "#C0392B"
-BEN = "#46f667"
+BEN = "#6fcdcb"
 
 st.markdown(f"""
 <style>

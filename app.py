@@ -26,6 +26,7 @@ GREEN = "#2E7D32"
 RED = "#C0392B"
 BEN = "#868eb6"
 BAN = "#5efb41"
+KIR = "#d26a72"
 
 st.markdown(f"""
 <style>
@@ -75,7 +76,7 @@ st.markdown(f"""
 st.markdown("""
 <div class="app-header">
     <h1>🏗️ İnşaat Proje Maliyeti Tahmin Aracı</h1>
-    <p style = "color: BEN; font-weight: bold;">Harun Tamer Karacan — 2022232050 - 5469220049 Lab Projesi</p>
+    <p style = "color: KIR; font-weight: bold;">Harun Tamer Karacan — 2022232050 - 5469220049 Lab Projesi</p>
 </div>
 """, unsafe_allow_html=True)
 

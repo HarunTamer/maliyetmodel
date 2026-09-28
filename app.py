@@ -25,6 +25,7 @@ AMBER = "#E8A838"
 GREEN = "#2E7D32"
 RED = "#C0392B"
 BEN = "#8554e8"
+BAN = "#5efb41"
 
 st.markdown(f"""
 <style>
@@ -32,7 +33,7 @@ st.markdown(f"""
     .stApp header {{ background-color: transparent; }}
     h1 {{ color: {NAVY}; }}
     .app-header {{
-        background-color: {BEN};
+        background-color: {BAN};
         padding: 1.3rem 1.6rem;
         border-radius: 10px;
         margin-bottom: 1.2rem;

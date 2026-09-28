@@ -41,7 +41,7 @@ st.markdown(f"""
     .app-header p {{ color: #D5E8F0; margin: 0.3rem 0 0 0; font-size: 0.95rem; }}
     .result-box {{
         background-color: {PRIMARY};
-        color: white;
+        color: red;
         padding: 1.4rem;
         border-radius: 10px;
         text-align: center;

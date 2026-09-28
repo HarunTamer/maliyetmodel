@@ -74,7 +74,7 @@ st.markdown(f"""
 st.markdown("""
 <div class="app-header">
     <h1>🏗️ İnşaat Proje Maliyeti Tahmin Aracı</h1>
-    <p style = "color: red; font-weight: bold;">Harun Tamer Karacan — 2022232050 - 5469220049 Lab Projesi</p>
+    <p style = "color: GREEN; font-weight: bold;">Harun Tamer Karacan — 2022232050 - 5469220049 Lab Projesi</p>
 </div>
 """, unsafe_allow_html=True)
 

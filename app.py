@@ -38,7 +38,7 @@ st.markdown(f"""
         margin-bottom: 1.2rem;
     }}
     .app-header h1 {{ color: white; margin: 0; font-size: 1.6rem; }}
-    .app-header p {{ color: #D5E8F0; margin: 0.3rem 0 0 0; font-size: 0.95rem; }}
+    .app-header p {{ color: red ; margin: 0.3rem 0 0 0; font-size: 0.95rem; }}
     .result-box {{
         background-color: {RED};
         color: red;
